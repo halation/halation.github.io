@@ -1,0 +1,19 @@
+/*
+* @Author: halation
+* @Date:   2017-04-19 15:31:39
+* @Last Modified by:   halation
+* @Last Modified time: 2017-04-19 16:36:45
+*/
+
+.{
+	margin: 0;
+	padding: 0;
+}
+.main{
+	width: 500px;
+	height: 500px;
+	margin: 100px auto;
+}
+.readme{
+	margin: 20px auto;
+}
